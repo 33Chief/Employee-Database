@@ -9,11 +9,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 Data Engineering
 
 Data Analysts
-
-
 Data Modeling
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
-
 Data Engineering
 
 
