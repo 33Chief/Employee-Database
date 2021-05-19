@@ -8,32 +8,8 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 Data Engineering
 
+Data Analysts
 
-Data Analysis
-
-
-Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
-
-Before You Begin
-
-
-Create a new repository for this project called sql-challenge. Do not add this homework to an existing repository.
-
-
-Clone the new repository to your computer.
-
-
-Inside your local git repository, create a directory for the SQL challenge. Use a folder name to correspond to the challenge: EmployeeSQL.
-
-
-Add your files to this folder.
-
-
-Push the above changes to GitHub.
-
-
-
-Instructions
 
 Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
@@ -53,7 +29,7 @@ Import each CSV file into the corresponding SQL table. Note be sure to import th
 
 
 Data Analysis
-Once you have a complete database, do the following:
+Once you have a complete database, I will do the following:
 
 
 List the following details of each employee: employee number, last name, first name, sex, and salary.
