@@ -8,10 +8,10 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 
 Data Engineering
-
 Data Analysts
 Data Modeling
-Data Engineering
+<strong>Data Engineering</strong>
+# Data Engineering
 
 
 Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
