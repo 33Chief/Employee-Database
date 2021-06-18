@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/71952428/118586203-4eb68b80-b768-11eb-869a-12d5df9d41d6.png)
 
 
-My first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
+My first major task I will be conducting a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
 
 
@@ -14,7 +14,7 @@ Data Modeling
 # Data Engineering
 
 
-Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+I will Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
 For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes to primary keys in order to uniquely identify a row.
 Be sure to create tables in the correct order to handle foreign keys.
@@ -26,7 +26,7 @@ Import each CSV file into the corresponding SQL table. Note be sure to import th
 
 
 Data Analysis
-Once you have a complete database, I will do the following:
+Once I have a complete database, I will do the following:
 
 
 List the following details of each employee: employee number, last name, first name, sex, and salary.
