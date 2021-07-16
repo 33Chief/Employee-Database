@@ -28,7 +28,7 @@ Import each CSV file into the corresponding SQL table. Note be sure to import th
 ![image](https://user-images.githubusercontent.com/71952428/125969397-78782102-9928-47e4-b9c1-db3fa2297a0c.png)
 
 
-Data Analysis
+
 Once I have a complete database, I will do the following:
 
 
